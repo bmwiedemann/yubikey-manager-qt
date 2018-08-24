@@ -6,7 +6,7 @@ SOURCES += main.cpp
 # This is the verson number for the application,
 # will be in info.plist file, about page etc.
 
-VERSION = 1.0.0-SNAPSHOT
+VERSION = 1.0.0.0
 
 message(Version of this build: $$VERSION)
 
